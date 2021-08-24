@@ -1,4 +1,4 @@
-<div>
+<div align="right">
   <p>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     <a href="https://velog.io/@2nchanter">
@@ -8,6 +8,8 @@
   </p>
 <div>
 
+👋  Hi there! 
+  
 ### ✨ Front-end Stack ✨
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7b9543444702b18e422d9f74ec8ca300dec2bf122b8f6b811cfca082b7f0f412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7b9543444702b18e422d9f74ec8ca300dec2bf122b8f6b811cfca082b7f0f412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a0209c9b1d5dfedd47cec53c14c89704cdb052d79c06b15b54459f451763ec92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d4636383231323f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a0209c9b1d5dfedd47cec53c14c89704cdb052d79c06b15b54459f451763ec92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d4636383231323f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width:100%;"></a>
@@ -21,7 +23,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/770718f1781488095bb590495457db4b86366a5c60cd221ca7f9840255c90cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4761746865722d6361613666653f7374796c653d666c61742d737175617265266c6f676f3d556e64657274616c65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/770718f1781488095bb590495457db4b86366a5c60cd221ca7f9840255c90cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4761746865722d6361613666653f7374796c653d666c61742d737175617265266c6f676f3d556e64657274616c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&amp;logo=Undertale&amp;logoColor=white" style="max-width:100%;"></a>
 </div>
 
-### ✨ Curriculum Vitae ✨</h2>
+### ✨ Curriculum Vitae ✨
 - 📚 KUGS MS - Part-time Student, EEECS (Feb 2021 ~ )</p>
 - 🧑🏻‍💻 Tempus - Assistant Research Engineer, MEMS IR sensor (Sep 2018 ~ )</p>
 - 🇰🇷 Served - Lieutenant, Artillery (Feb 2016 ~ Jun 2018)</p>
