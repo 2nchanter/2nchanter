@@ -1,4 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/2nchanter)
+<div align="center">
+  <h1>Hello, I'm Youngchan !</h1>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  ![GitHub followers](https://img.shields.io/github/followers/2nchanter?style=social)
+</div>
+
 ## 👋 Hi there !
 ### Hello, I'm Youngchan Choi !
 
@@ -16,3 +21,15 @@
 - 🌱 I’m currently learning **Machine learning** / **Web dev.** / **Semiconductor engineering**
 - 📫 How to reach me : 2nchanter@gmail.com
 - ⚡ Fun fact: I'm not ~~yet~~ a developer!
+<div align="center">
+  <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/_2nchanter/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@2nchanter"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</div>
