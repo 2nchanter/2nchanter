@@ -1,4 +1,4 @@
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 👋 Hi there !
 ### Hello, I'm Youngchan Choi !
 
