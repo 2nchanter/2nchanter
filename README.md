@@ -1,6 +1,6 @@
 
-## 👋 Hi there!
-### Hello, I'm Youngchan Choi!
+## 👋 Hi there !
+### Hello, I'm Youngchan Choi !
 
 #### Good day!
 #### This infinite space to learn and share is a blessing to me, and enough to excite my intellectual curiosity. Target is 1 commit per day. If you want to contact me, please leave me a message!
