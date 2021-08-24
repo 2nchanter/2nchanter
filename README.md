@@ -1,11 +1,8 @@
 <div align="center">
-  <h1>Hello, I'm Youngchan !</h1>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  ![GitHub followers](https://img.shields.io/github/followers/2nchanter?style=social)
+  <h1>Hello, I'm Youngchan 🔥</h1>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>   </a>
+  <img src="https://i.ytimg.com/vi/2A1lW-UZt3A/maxresdefault.jpg">
 </div>
-
-## 👋 Hi there !
-### Hello, I'm Youngchan Choi !
 
 #### Good day!
 #### This infinite space to learn and share is a blessing to me, and enough to excite my intellectual curiosity. Target is 1 commit per day. If you want to contact me, please leave me a message!
