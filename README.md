@@ -21,10 +21,9 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f4c0d778e1825c8cfa5b2c236bb44f651af66fdf8a508cfb0b58b78929807bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f4c0d778e1825c8cfa5b2c236bb44f651af66fdf8a508cfb0b58b78929807bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=Slack&amp;logoColor=white" style="max-width:100%;"></a>
   
 </div>
-
-### 💫 Curriculum Vitae
-- **KUGS MS** - Part-time Student, EEECS *(Feb 2021 ~ )*
-- **Tempus** - Assistant Research Engineer, Process Engineer in MEMS IR sensor *(Sep 2018 ~ )*
-- **Served** - Lieutenant, Director of Intelligence in Artillery  *(Feb 2016 ~ Jun 2018)*
-- **Microinfinity** - Intern, Photolithography process *(Dec 2015 ~ Feb 2016)*
-- **USW BS** - Student, EEM *(Feb 2012 ~ Feb 2016)*
+  <h2>✨ Curriculum Vitae ✨</h2>
+  <p>📚 KUGS MS - Part-time Student, EEECS (Feb 2021 ~ )</p>
+  <p>🧑🏻‍💻 Tempus - Assistant Research Engineer, Process Engineer in MEMS IR sensor (Sep 2018 ~ )</p>
+  <p>🇰🇷 Served - Lieutenant, Director of Intelligence in Artillery  (Feb 2016 ~ Jun 2018)</p>
+  <p>🧑🏻‍💻 Microinfinity - Intern, Photolithography process (Dec 2015 ~ Feb 2016)</p>
+  <p>📚 USW BS - Student, EEM (Feb 2012 ~ Feb 2016)</p>
