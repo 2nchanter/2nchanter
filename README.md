@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 USW BS
-
 KU MS (2021. 03 ~ )
 
 <!--
