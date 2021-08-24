@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+USW BS
+KU MS (2021. 03 ~ )
+
 <!--
 **2nchanter/2nchanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
