@@ -10,7 +10,7 @@
 
 👋 Hi there! I'm **Process Engineer** in MEMS IR sensor.<br>I'm very excited to find an infinite space of learning and sharing.🤩
   
-I enjoy coding, cat servant, watching premier league.💻 😽 ⚽️<br>I hope to develop helpful things.
+I enjoy coding, cat servant, watching premier league.💻 😽 ⚽️<br>I hope to develop helpful things someday.
   
 ### ✨ Stack
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7b9543444702b18e422d9f74ec8ca300dec2bf122b8f6b811cfca082b7f0f412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7b9543444702b18e422d9f74ec8ca300dec2bf122b8f6b811cfca082b7f0f412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width:100%;"></a>
