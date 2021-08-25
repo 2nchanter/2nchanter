@@ -10,18 +10,23 @@
   
 I enjoy coding 💻, serve a cat 😽, watching premier league ⚽️.<br>I hope to develop helpful things someday.
   
-### ✨ Stack
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7b9543444702b18e422d9f74ec8ca300dec2bf122b8f6b811cfca082b7f0f412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7b9543444702b18e422d9f74ec8ca300dec2bf122b8f6b811cfca082b7f0f412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a0209c9b1d5dfedd47cec53c14c89704cdb052d79c06b15b54459f451763ec92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d4636383231323f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a0209c9b1d5dfedd47cec53c14c89704cdb052d79c06b15b54459f451763ec92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d4636383231323f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/804916acf20e20c2c0d345422257f110953d04da25d60c20316ea5abc14d3c83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a51756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a5175657279266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/804916acf20e20c2c0d345422257f110953d04da25d60c20316ea5abc14d3c83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a51756572792d3037363941443f7374796c653d666c61742d737175617265266c6f676f3d6a5175657279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=jQuery&amp;logoColor=white" style="max-width:100%;"></a>
-
-### ✨ Cowork
-<div>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/01504daa1be08e9f944dd9de6e992d43c1f871770fa8fb2cf7ff6915d973f495/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/01504daa1be08e9f944dd9de6e992d43c1f871770fa8fb2cf7ff6915d973f495/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f4c0d778e1825c8cfa5b2c236bb44f651af66fdf8a508cfb0b58b78929807bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/f4c0d778e1825c8cfa5b2c236bb44f651af66fdf8a508cfb0b58b78929807bfb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&amp;logo=Slack&amp;logoColor=white" style="max-width:100%;"></a>
+  <h3>✨ Stacks</h3>
+  <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/770718f1781488095bb590495457db4b86366a5c60cd221ca7f9840255c90cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4761746865722d6361613666653f7374796c653d666c61742d737175617265266c6f676f3d556e64657274616c65266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/770718f1781488095bb590495457db4b86366a5c60cd221ca7f9840255c90cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4761746865722d6361613666653f7374796c653d666c61742d737175617265266c6f676f3d556e64657274616c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gather-caa6fe?style=flat-square&amp;logo=Undertale&amp;logoColor=white" style="max-width:100%;"></a>
-</div>
+
 
 ### ✨ CV
 **KUGS MS** - Part-time Student, EEECS *(Feb 2021 ~ )* 📚<br>
