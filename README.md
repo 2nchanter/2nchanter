@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/89369520/143391700-d979d33a-acf8-4368-a063-36300ffe6832.gif">
+  <img width="250" src="https://user-images.githubusercontent.com/89369520/143391700-d979d33a-acf8-4368-a063-36300ffe6832.gif">
   <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2nchanter&count_bg=%23EA4A6E&title_bg=%23777777&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <a href="https://www.instagram.com/_2nchanter/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/_2nchanter/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
